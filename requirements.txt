@@ -5,4 +5,5 @@ datasets
 soundfile
 numpy
 jiwer
+yaml
 
